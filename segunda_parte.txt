@@ -9,4 +9,22 @@ Sesion 2:
 
         git commit (nos permite agrupar un conjunto de cambios)
 
-        git commit -m "Mensaje para el Commit" Se un mensaje Breve  y 
+        git commit -m "Mensaje para el Commit" Se un mensaje Breve  y
+
+        Enlazar nuestro repositorio remoto al repositorio local
+            -- git remote add origin (URL del repositorio)
+            -- git remote -v // nos permite ver el repositorio remoto al que estamos enlazados.
+
+
+            // Crear una Rama antes de entrar al repositorio remoto
+
+            ssh-keygen -t rsa -b 4096 -C "morga.gary."
+
+            git push --set-upstream origin master
+            eval 
+
+            git push --set-upstream origin master
+
+            Navegar a un commit anterior (Cuidado a este comando)
+
+            git reset --hard (id del commit al que quiero navegar)
