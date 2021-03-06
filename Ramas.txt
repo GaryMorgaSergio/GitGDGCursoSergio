@@ -1,0 +1,6 @@
+Parte de Ramas
+    Rama Master ( Proyecto Oficial Sin ningun error, Protegido)
+    developers  ( Proyecto De desarrollo Cambios del Proyecto)
+    Test (Esta es la rama de pruebas donde el modulo)
+    beta (Esta es la version donde el usuario comun pueda usarlo)
+

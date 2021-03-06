@@ -28,3 +28,9 @@ Sesion 2:
             Navegar a un commit anterior (Cuidado a este comando)
 
             git reset --hard (id del commit al que quiero navegar)
+
+            e9e04485423e81cf951356f4c2467ea1f27e30df
+
+
+
+            Se va a hablar de ramas
