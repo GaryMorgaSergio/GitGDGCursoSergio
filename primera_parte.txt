@@ -1,0 +1,8 @@
+Sesion 1:
+    - Clonar el repositorio:
+        - git clone (URL adel repositorio)
+
+         - Inicializar la herramienta de git en un repositorio local
+        - git init
+
+        - fork (Inicializa una copia de un repositorio externo a un repositorio propio) 

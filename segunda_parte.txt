@@ -1,0 +1,8 @@
+Sesion 2:
+    Adicion de Archivos
+        - git Add (Nombre del Archivo conjuntamente con su extencion)
+        - git Add *   (Adiciona todos los Archivos)
+        - git add -A
+        Estado del proyecto Como Se encuentra el estado del proyecto
+            (commi, agrupacion, las ramas)
+        - git status (Se puede Ver el estado)
