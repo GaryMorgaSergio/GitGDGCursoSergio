@@ -6,3 +6,7 @@ Sesion 2:
         Estado del proyecto Como Se encuentra el estado del proyecto
             (commi, agrupacion, las ramas)
         - git status (Se puede Ver el estado)
+
+        git commit (nos permite agrupar un conjunto de cambios)
+
+        git commit -m "Mensaje para el Commit" Se un mensaje Breve  y 
